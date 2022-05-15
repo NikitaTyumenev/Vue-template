@@ -2,7 +2,9 @@ rename docker-compose.yml.sample into docker-compose.yml
 
 run your application
 
-# board
+connect to localhost:3000
+
+# vue-template
 
 ## Project setup
 ```
